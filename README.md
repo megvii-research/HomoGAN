@@ -3,7 +3,7 @@
 
 ## Summary
 <p align="center">
-<img src=https://github.com/megvii-research/HomoGAN/blob/main/images/slide.png width="700px" height=400px">
+<img src=https://github.com/megvii-research/HomoGAN/blob/main/images/slide.png width="891px" height=500px">
 </p>
 
 ## Presentation Video:
