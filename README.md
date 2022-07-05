@@ -53,6 +53,3 @@ Fine-tuning:
 2) python train.py --model_dir ./experiments/HomoGAN/ --restore_file xxx.pth
 ```
 ##Note
-
-hh
-In the future, we will upload a detailed implementation code of this paper on GitHub, including the pre-trained model.
