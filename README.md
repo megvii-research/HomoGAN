@@ -1,13 +1,13 @@
 # Unsupervised Homography Estimation with Coplanarity-Aware GAN [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.html)]
 
 
-## Requirements
+
 
 
 ## Presentation Video:
 [[Bilibili](https://www.bilibili.com/video/BV1Wv4y137Ko?spm_id_from=333.999.0.0&vd_source=0a9f26f2f6a274787d7c263fe3ce7f3d)] [[Youtube](https://www.youtube.com/watch?v=uNFA-yOSz7M)]
 
-
+## Requirements
 ```
 Pytorch = 1.7.1
 Python = 3.7.10
