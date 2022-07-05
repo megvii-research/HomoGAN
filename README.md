@@ -9,7 +9,6 @@
 ## Presentation Video:
 [[Bilibili](https://www.bilibili.com/video/BV1Wv4y137Ko?spm_id_from=333.999.0.0&vd_source=0a9f26f2f6a274787d7c263fe3ce7f3d)] [[Youtube](https://www.youtube.com/watch?v=uNFA-yOSz7M)]
 
-## Our Paper
 
 ## Requirements
 ```
@@ -42,21 +41,21 @@ Be sure to scale the image to (640, 360) since the point coordinate system is ba
 e.g. img = cv2.imresize(img, (640, 360))
 ```
 
-##How to test?
+## How to test?
 ```
 python evaluate.py --model_dir ./experiments/HomoGAN/ --restore_file xxx.pth
 ```
-##How to train?
+## How to train?
 You need to modify ```./dataset/data_loader.py``` slightly for your owner environment, and you can also refer to [Content-Aware Unsupervised Deep Homography Estimation](https://github.com/JirongZhang/DeepHomography).
 
-Pre-training:
+## Pre-training:
 ```
 1) set "pretrain_phase" in ./experiments/HomoGAN/params.json as True
 2) python train.py --model_dir ./experiments/HomoGAN/
 ```
-Fine-tuning:
+## Fine-tuning:
 ```
 1) set "pretrain_phase" in ./experiments/HomoGAN/params.json as False
 2) python train.py --model_dir ./experiments/HomoGAN/ --restore_file xxx.pth
 ```
-##Note
+## Code coming soon ...
