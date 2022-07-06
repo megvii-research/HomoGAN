@@ -4,7 +4,7 @@ This is the Pytorch implementation of our CVPR2022 paper [[PDF](https://openacce
 ## Code coming soon ...
 ## Summary
 <p align="center">
-<img src=https://github.com/megvii-research/HomoGAN/blob/main/images/slide.png width="766px" height=430px">
+<img src=https://github.com/megvii-research/HomoGAN/blob/main/images/slide.png width="780px" height=430px">
 </p>
 
 ## Presentation Video:
