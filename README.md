@@ -57,11 +57,12 @@ You need to modify ```./dataset/data_loader.py``` slightly for your environment,
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
 ```
-@article{hong2021sspnet,
-  title={SSPNet: Scale Selection Pyramid Network for Tiny Person Detection From UAV Images},
-  author={Hong, Mingbo and Li, Shuiwang and Yang, Yuchao and Zhu, Feiyu and Zhao, Qijun and Lu, Li},
-  journal={IEEE Geoscience and Remote Sensing Letters},
-  year={2021},
-  publisher={IEEE}
+@InProceedings{Hong_2022_CVPR,
+    author    = {Hong, Mingbo and Lu, Yuhang and Ye, Nianjin and Lin, Chunyu and Zhao, Qijun and Liu, Shuaicheng},
+    title     = {Unsupervised Homography Estimation With Coplanarity-Aware GAN},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {17663-17672}
 }
 ```
