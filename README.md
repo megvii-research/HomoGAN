@@ -11,14 +11,7 @@ This is the Pytorch implementation of our CVPR2022 paper [[PDF](https://openacce
 [[Bilibili](https://www.bilibili.com/video/BV1Wv4y137Ko?spm_id_from=333.999.0.0&vd_source=0a9f26f2f6a274787d7c263fe3ce7f3d)] [[Youtube](https://www.youtube.com/watch?v=uNFA-yOSz7M)]
 
 
-## Requirements
-```
-Pytorch = 1.7.1
-Python = 3.7.10
-Cuda = 10.2
-Numpy = 1.19.4
-```
-You can also use this command
+## Dependencies
 ```
 pip install -r requirements.txt
 ```
@@ -47,7 +40,7 @@ e.g. img = cv2.imresize(img, (640, 360))
 python evaluate.py --model_dir ./experiments/HomoGAN/ --restore_file xxx.pth
 ```
 ## How to train?
-You need to modify ```./dataset/data_loader.py``` slightly for your owner environment, and you can also refer to [Content-Aware Unsupervised Deep Homography Estimation](https://github.com/JirongZhang/DeepHomography).
+You need to modify ```./dataset/data_loader.py``` slightly for your environment, and you can also refer to [Content-Aware Unsupervised Deep Homography Estimation](https://github.com/JirongZhang/DeepHomography).
 
 ## Pre-training:
 ```
@@ -60,3 +53,15 @@ You need to modify ```./dataset/data_loader.py``` slightly for your owner enviro
 2) python train.py --model_dir ./experiments/HomoGAN/ --restore_file xxx.pth
 ```
 ## Code coming soon ...
+
+## Citation
+If you use this code or ideas from the paper for your research, please cite our paper:
+```
+@article{hong2021sspnet,
+  title={SSPNet: Scale Selection Pyramid Network for Tiny Person Detection From UAV Images},
+  author={Hong, Mingbo and Li, Shuiwang and Yang, Yuchao and Zhu, Feiyu and Zhao, Qijun and Lu, Li},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  year={2021},
+  publisher={IEEE}
+}
+```
