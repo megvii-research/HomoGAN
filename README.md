@@ -1,7 +1,7 @@
 # Unsupervised Homography Estimation with Coplanarity-Aware GAN 
 
 This is the Pytorch implementation of our CVPR2022 paper [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.html)]
-
+## Code coming soon ...
 ## Summary
 <p align="center">
 <img src=https://github.com/megvii-research/HomoGAN/blob/main/images/slide.png width="802px" height=450px">
@@ -52,7 +52,6 @@ You need to modify ```./dataset/data_loader.py``` slightly for your environment,
 1) set "pretrain_phase" in ./experiments/HomoGAN/params.json as False
 2) python train.py --model_dir ./experiments/HomoGAN/ --restore_file xxx.pth
 ```
-## Code coming soon ...
 
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
