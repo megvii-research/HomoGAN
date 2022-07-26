@@ -15,6 +15,8 @@
 ## Presentation Video:
 [[Bilibili](https://www.bilibili.com/video/BV1Wv4y137Ko?spm_id_from=333.999.0.0&vd_source=0a9f26f2f6a274787d7c263fe3ce7f3d)] [[Youtube](https://www.youtube.com/watch?v=uNFA-yOSz7M)]
 
+## Pipeline
+![pipeline](https://user-images.githubusercontent.com/1344482/180947836-983a8de3-82eb-40b4-a2d4-1b982a345819.JPG)
 
 ## Dependencies
 ```
