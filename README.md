@@ -6,17 +6,19 @@
 
 
 #### This is the official implementation of HomoGAN, CVPR2022, [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.html)]
+
+## Presentation Video:
+[[Bilibili](https://www.bilibili.com/video/BV1Wv4y137Ko?spm_id_from=333.999.0.0&vd_source=0a9f26f2f6a274787d7c263fe3ce7f3d)] [[Youtube](https://www.youtube.com/watch?v=uNFA-yOSz7M)]
+
 ## Code coming soon ...
 ## Summary
 <p align="center">
 <img src=https://github.com/megvii-research/HomoGAN/blob/main/images/slide.png width="780px" height=430px">
 </p>
 
-## Presentation Video:
-[[Bilibili](https://www.bilibili.com/video/BV1Wv4y137Ko?spm_id_from=333.999.0.0&vd_source=0a9f26f2f6a274787d7c263fe3ce7f3d)] [[Youtube](https://www.youtube.com/watch?v=uNFA-yOSz7M)]
-
 ## Pipeline
-![pipeline](https://user-images.githubusercontent.com/1344482/180947836-983a8de3-82eb-40b4-a2d4-1b982a345819.JPG)
+![pipeline](https://user-images.githubusercontent.com/1344482/180948144-991d8683-2a42-47e1-af07-45fa5ac6501b.JPG)
+
 
 ## Dependencies
 ```
