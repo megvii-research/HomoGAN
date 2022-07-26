@@ -1,6 +1,11 @@
-# Unsupervised Homography Estimation with Coplanarity-Aware GAN 
+# [CVPR2022] Unsupervised Homography Estimation with Coplanarity-Aware GAN 
 
-This is the Pytorch implementation of our CVPR2022 paper [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.html)]
+<h4 align="center">Mingbo Hong$^{1,2}$, Yuhang Lu${1,3}$, Nianjin Ye$^1$, Chunyu Lin$^4$, Qijun Zhao$^2$, Shuaicheng Liu$^5$</center>
+<h4 align="center">1. Megvii Technology, 2. Sichuan University, 3. Univesity of South Carolina</center>
+<h4 align="center">4. Beijing Jiaotong University, 5. University of Electronic Science and Technology of China</center>
+
+
+#### This is the official implementation of HomoGAN, CVPR2022, [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.html)]
 ## Code coming soon ...
 ## Summary
 <p align="center">
