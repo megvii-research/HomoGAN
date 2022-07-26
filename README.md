@@ -17,7 +17,8 @@
 </p>
 
 ## Pipeline
-![pipeline](https://user-images.githubusercontent.com/1344482/180948144-991d8683-2a42-47e1-af07-45fa5ac6501b.JPG)
+![pipeline](https://user-images.githubusercontent.com/1344482/180948412-04138e09-b1da-4bf4-bc7c-c96432dff70a.JPG)
+
 
 
 ## Dependencies
