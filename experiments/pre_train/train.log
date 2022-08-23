@@ -1,0 +1,71 @@
+2022-07-22 14:10:12,133 - Output and logs will be saved to experiments/pre_train/train.log
+2022-07-22 14:10:12,133 - Loading the datasets from ./data/
+2022-07-22 14:10:12,134 - Dataset type: homo, transform type: homo
+2022-07-22 14:10:12,134 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-07-22 14:10:12,134 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-07-22 14:10:57,444 - Starting training for 10 epoch(s)
+2022-07-22 14:13:00,116 - Output and logs will be saved to experiments/pre_train/train.log
+2022-07-22 14:13:00,116 - Loading the datasets from ./data/
+2022-07-22 14:13:00,116 - Dataset type: homo, transform type: homo
+2022-07-22 14:13:00,117 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-07-22 14:13:00,117 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-07-22 14:13:38,595 - Starting training for 10 epoch(s)
+2022-07-22 14:18:31,287 - Output and logs will be saved to experiments/pre_train/train.log
+2022-07-22 14:18:31,287 - Loading the datasets from ./data/
+2022-07-22 14:18:31,287 - Dataset type: homo, transform type: homo
+2022-07-22 14:18:31,288 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-07-22 14:18:31,288 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-07-22 14:18:52,070 - Starting training for 10 epoch(s)
+2022-07-22 14:19:43,769 - Output and logs will be saved to experiments/pre_train/train.log
+2022-07-22 14:19:43,769 - Loading the datasets from ./data/
+2022-07-22 14:19:43,769 - Dataset type: homo, transform type: homo
+2022-07-22 14:19:43,770 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-07-22 14:19:43,770 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-07-22 14:20:05,549 - Starting training for 10 epoch(s)
+2022-07-22 14:20:39,903 - Output and logs will be saved to experiments/pre_train/train.log
+2022-07-22 14:20:39,903 - Loading the datasets from ./data/
+2022-07-22 14:20:39,903 - Dataset type: homo, transform type: homo
+2022-07-22 14:20:39,904 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-07-22 14:20:39,904 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-07-22 14:21:01,680 - Starting training for 10 epoch(s)
+2022-07-22 14:24:31,557 - Output and logs will be saved to experiments/pre_train/train.log
+2022-07-22 14:24:31,557 - Loading the datasets from ./data/
+2022-07-22 14:24:31,557 - Dataset type: homo, transform type: homo
+2022-07-22 14:24:31,558 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-07-22 14:24:31,558 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-07-22 14:24:52,554 - Starting training for 10 epoch(s)
+2022-08-23 14:18:55,840 - Output and logs will be saved to experiments/pre_train/train.log
+2022-08-23 14:18:55,840 - Loading the datasets from ./data/
+2022-08-23 14:18:55,840 - Dataset type: homo, transform type: homo
+2022-08-23 14:18:55,841 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-08-23 14:18:55,841 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-08-23 14:19:35,365 - Output and logs will be saved to experiments/pre_train/train.log
+2022-08-23 14:19:35,366 - Loading the datasets from ./data/
+2022-08-23 14:19:35,366 - Dataset type: homo, transform type: homo
+2022-08-23 14:19:35,367 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-08-23 14:19:35,367 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-08-23 14:19:54,433 - Starting training for 10 epoch(s)
+2022-08-23 14:26:04,978 - Output and logs will be saved to experiments/pre_train/train.log
+2022-08-23 14:26:04,979 - Loading the datasets from ./data/
+2022-08-23 14:26:04,979 - Dataset type: homo, transform type: homo
+2022-08-23 14:26:04,979 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-08-23 14:26:04,979 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-08-23 14:26:21,760 - Starting training for 10 epoch(s)
+2022-08-23 14:30:05,682 - Output and logs will be saved to experiments/pre_train/train.log
+2022-08-23 14:30:05,683 - Loading the datasets from ./data/
+2022-08-23 14:30:05,683 - Dataset type: homo, transform type: homo
+2022-08-23 14:30:05,683 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-08-23 14:30:05,683 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-08-23 14:30:22,946 - Starting training for 10 epoch(s)
+2022-08-23 14:31:13,387 - Output and logs will be saved to experiments/pre_train/train.log
+2022-08-23 14:31:13,387 - Loading the datasets from ./data/
+2022-08-23 14:31:13,388 - Dataset type: homo, transform type: homo
+2022-08-23 14:31:13,388 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-08-23 14:31:13,388 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-08-23 14:31:30,105 - Starting training for 10 epoch(s)
+2022-08-23 14:31:54,693 - Output and logs will be saved to experiments/pre_train/train.log
+2022-08-23 14:31:54,694 - Loading the datasets from ./data/
+2022-08-23 14:31:54,694 - Dataset type: homo, transform type: homo
+2022-08-23 14:31:54,694 - Train transforms: ToPILImage, ToTensor, Normalize, Grayscale
+2022-08-23 14:31:54,694 - Val and Test transforms: ToPILImage, Resize, ToTensor, Normalize, Grayscale
+2022-08-23 14:32:11,469 - Starting training for 10 epoch(s)

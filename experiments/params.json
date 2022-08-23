@@ -1,0 +1,71 @@
+{
+    "data_dir": "./data/",
+    "dataset_type": "homo",
+    "transform_type": "homo",
+    "net_type": "HomoGAN",
+    "loss_type": "align_loss",
+    "hyper_loss": 1,
+    "eval_type": [
+        "val",
+        "test"
+    ],
+    "major_metric": "accuracy",
+    "save_mode": "local",
+    "learning_rate": 1e-4,
+    "gamma": 0.8,
+    "train_batch_size": 8,
+    "eval_batch_size": 8,
+    "num_epochs": 10,
+    "dropout_rate": 0.5,
+    "num_channels": 32,
+    "save_summary_steps": 100,
+    "num_workers": 8,
+    "cpu": 8,
+    "memory": 14336,
+    "gpu": 4,
+    "crop_size": [
+        384,
+        512
+    ],
+    "in_channels": 2,
+    "patch_size": 4,
+    "rho": 16,
+    "in_chans": 2,
+    "num_basis": 8,
+    "embed_dim": 24,
+    "depths": [
+        2,
+        4,
+        6
+    ],
+    "layer_depth": [
+        3,
+        2,
+        1
+    ],
+    "num_heads": [
+        3,
+        12,
+        24
+    ],
+    "num_decoder_heads": 4,
+    "num_decoder_layers": 4,
+    "window_size": 8,
+    "mlp_ratio": 3,
+    "qkv_bias": true,
+    "qk_scale": null,
+    "drop_rate": 0,
+    "drop_path_rate": 0,
+    "attn_drop_rate": 0,
+    "ape": false,
+    "patch_norm": true,
+    "use_checkpoint": false,
+    "shift": 4,
+    "cls_weight": 0.01,
+    "dynamic_apha": false,
+    "mask_use_fea": true,
+    "mk_weight": 0.2,
+    "h_weight": 1,
+    "use_open": true,
+    "pretrain_phase": false
+}
