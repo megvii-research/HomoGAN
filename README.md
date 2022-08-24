@@ -45,7 +45,7 @@ e.g. img = cv2.imresize(img, (640, 360))
 ```
 ## Pre-trained model
 ```
-The models provided below are the retrained version(quantitative results have minor difference)
+The models provided below are the retrained version(with minor differences in quantitative results)
 ```
 
 | model    | RE | LT |LL |SF |LF |Avg |Model |
