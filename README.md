@@ -10,7 +10,6 @@
 ## Presentation Video:
 [[Bilibili](https://www.bilibili.com/video/BV1Wv4y137Ko?spm_id_from=333.999.0.0&vd_source=0a9f26f2f6a274787d7c263fe3ce7f3d)] [[Youtube](https://www.youtube.com/watch?v=uNFA-yOSz7M)]
 
-## Code coming soon ...
 ## Summary
 <p align="center">
 <img src=https://github.com/megvii-research/HomoGAN/blob/main/images/slide.png width="780px" height=430px">
@@ -44,6 +43,7 @@ https://pan.baidu.com/s/1Dkmz4MEzMtBx-T7nG0ORqA (key: gvor)
 Be sure to scale the image to (640, 360) since the point coordinate system is based on the (640, 360).
 e.g. img = cv2.imresize(img, (640, 360))
 ```
+## Pre-training model
 
 ## How to test?
 ```
