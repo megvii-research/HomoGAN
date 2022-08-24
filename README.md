@@ -44,7 +44,10 @@ Be sure to scale the image to (640, 360) since the point coordinate system is ba
 e.g. img = cv2.imresize(img, (640, 360))
 ```
 ## Pre-trained model
-
+| model    | RE | LT |LL |SF |LF |Avg |model |
+| --------- | ----------- | ------------ |------------ |------------ |------------ |------------ |------------ |
+| pre-trained    | Title       | Title1       |Title1       |Title1       |Title1       |Title1       |Title1       |
+| fine-tuning | Text        | Text1        |Title1       |Title1       |Title1       |Title1       |Title1       |
 ## How to test?
 ```
 python evaluate.py --model_dir ./experiments/HomoGAN/ --restore_file xxx.pth
