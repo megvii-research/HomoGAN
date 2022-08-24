@@ -47,10 +47,12 @@ e.g. img = cv2.imresize(img, (640, 360))
 ```
 The models provided below are the retrained version(quantitative results have minor difference)
 ```
+<div class="center">
 | model    | RE | LT |LL |SF |LF |Avg |Model |
 | --------- | ----------- | ------------ |------------ |------------ |------------ |------------ |------------ |
 | Pre-trained    | 0.24       | 0.47       |0.59       |0.62       |0.43      |0.47       |Baidu Google       |
 | Fine-tuning | 0.22       | 0.38        |0.57       |0.47       |0.30       |0.39       |Baidu Google       |
+</div>
 ## How to test?
 ```
 python evaluate.py --model_dir ./experiments/HomoGAN/ --restore_file xxx.pth
