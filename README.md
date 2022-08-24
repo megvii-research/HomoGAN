@@ -43,7 +43,7 @@ https://pan.baidu.com/s/1Dkmz4MEzMtBx-T7nG0ORqA (key: gvor)
 Be sure to scale the image to (640, 360) since the point coordinate system is based on the (640, 360).
 e.g. img = cv2.imresize(img, (640, 360))
 ```
-## Pre-training model
+## Pre-trained model
 
 ## How to test?
 ```
