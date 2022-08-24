@@ -83,3 +83,15 @@ If you use this code or ideas from the paper for your research, please cite our 
     pages     = {17663-17672}
 }
 ```
+
+
+
+## Acknowledgments
+
+In this project we use (parts of) the official implementations of the following works:
+
+* [GyroFlow](https://github.com/lhaippp/GyroFlow-PyTorch)
+* [BasesHomo](https://github.com/megvii-research/BasesHomo)
+* [CA-Homo](https://github.com/JirongZhang/DeepHomography)
+
+We thank the respective authors for open sourcing their methods.
