@@ -50,8 +50,8 @@ The models provided below are the retrained version(quantitative results have mi
 
 | model    | RE | LT |LL |SF |LF |Avg |Model |
 | --------- | ----------- | ------------ |------------ |------------ |------------ |------------ |------------ |
-| Pre-trained    | 0.24       | 0.47       |0.59       |0.62       |0.43      |0.47       |Baidu Google       |
-| Fine-tuning | 0.22       | 0.38        |0.57       |0.47       |0.30       |0.39       |Baidu Google       |
+| Pre-trained    | 0.24       | 0.47       |0.59       |0.62       |0.43      |0.47       |Baidu [Google](https://drive.google.com/file/d/1U-ZvVNMWO2yfZLwmkS6wva0Xi7R2UKpL/view?usp=sharing)       |
+| Fine-tuning | 0.22       | 0.38        |0.57       |0.47       |0.30       |0.39       |Baidu [Google](https://drive.google.com/file/d/1U-ZvVNMWO2yfZLwmkS6wva0Xi7R2UKpL/view?usp=sharing)       |
 
 ## How to test?
 ```
