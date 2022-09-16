@@ -1,6 +1,6 @@
 # [CVPR2022] Unsupervised Homography Estimation with Coplanarity-Aware GAN 
 
-<h4 align="center">Mingbo Hong$^{1,2}$, Yuhang Lu${1,3}$, Nianjin Ye$^1$, Chunyu Lin$^4$, Qijun Zhao$^2$, Shuaicheng Liu$^5$</center>
+<h4 align="center">Mingbo Hong<sup>1,2</sup>, Yuhang Lu<sup>1,3</sup>, Nianjin Ye<sup>1</sup>, Chunyu Lin<sup>4</sup>, Qijun Zhao<sup>2</sup>, Shuaicheng Liu<sup>5</sup></center>
 <h4 align="center">1. Megvii Technology, 2. Sichuan University, 3. Univesity of South Carolina</center>
 <h4 align="center">4. Beijing Jiaotong University, 5. University of Electronic Science and Technology of China</center>
 
